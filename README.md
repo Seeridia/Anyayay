@@ -3,6 +3,14 @@
   <a href="https://seeridia.top"><img src="images/Hi.png"></a>
 </p>
 
+### My Contributions
+
+<p>
+  <a href="https://github.com/Tencent/cherry-markdown"><img src="images/MyContributions/Cherry.png" width="48%" alt="Javascript Markdown 编辑器"></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/west2-online/fzuhelper-app"><img src="images/MyContributions/Fzuhelper.png" width="48%" alt="FZUHelper - 福州大学学生助手"></a>
+</p>
+
 ### My Works
 
 <p>
@@ -16,14 +24,6 @@
   <a href="https://github.com/Seeridia?tab=repositories"><img src="images/Repositories.png" width="48%" alt="My Repositories"></a>
 </p>
 
-### My Contributions
-
-<p>
-  <a href="https://github.com/Tencent/cherry-markdown"><img src="images/MyContributions/Cherry.png" width="48%" alt="Javascript Markdown 编辑器"></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/west2-online/fzuhelper-app"><img src="images/MyContributions/Fzuhelper.png" width="48%" alt="FZUHelper - 福州大学学生助手"></a>
-</p>
-
 ### Contact Me
 
 <p>
@@ -34,6 +34,5 @@
   <a><img src="images/ContactMe/Wechat.png" height="40px" alt="Wechat"></a>
   &nbsp;&nbsp;
   <a href="https://seeridia.top"><img src="images/ContactMe/Website.png" height="40px" alt="Website"></a>
-  <img src="https://cloud.umami.is/p/d9hR6fFwE">
 </p>
 
